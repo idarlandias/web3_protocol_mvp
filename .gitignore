@@ -1,0 +1,17 @@
+# Hardhat artifacts & cache
+artifacts/
+cache/
+
+# Node
+node_modules/
+
+# Environment – NEVER commit private keys
+.env
+
+# Coverage
+coverage/
+coverage.json
+
+# TypeChain
+typechain/
+typechain-types/

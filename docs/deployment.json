@@ -1,0 +1,36 @@
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "deployedAt": "2026-04-19T01:07:15.150Z",
+  "deployer": "0xa7CC27f289F694A7eb5dCd144302335f85571274",
+  "chainlinkFeed": "0x694AA1769357215DE4FAC081bf1f309aDC325306",
+  "contracts": {
+    "GovToken": {
+      "address": "0xD63DF60Ec457bAcB41872da2B728fab84a45cABc",
+      "txHash": "0x8a31d27c0fcd9570bb5aa862196f832cd7cb161c7d02faef942ad3404e8e2779",
+      "blockNumber": 10687696,
+      "etherscan": "https://sepolia.etherscan.io/address/0xD63DF60Ec457bAcB41872da2B728fab84a45cABc"
+    },
+    "ProtocolNFT": {
+      "address": "0xB119BD5731793438835E1538B6FE0805FF967543",
+      "txHash": "0x6b2c2aab95b2f01d7f2b58ece1cff1975c814776e29762e105539ec76a7921ce",
+      "blockNumber": 10687697,
+      "etherscan": "https://sepolia.etherscan.io/address/0xB119BD5731793438835E1538B6FE0805FF967543"
+    },
+    "Staking": {
+      "address": "0xC86638426A8D72DBAE9b979CeAB5FB0f9855A89c",
+      "txHash": "0x72ed0a723c1d09d1412a97dcfe099ce4cf75bd10425b97044d4f7916d0b51005",
+      "blockNumber": 10687698,
+      "etherscan": "https://sepolia.etherscan.io/address/0xC86638426A8D72DBAE9b979CeAB5FB0f9855A89c",
+      "annualBps": 1200
+    },
+    "SimpleDAO": {
+      "address": "0x20B2A2584d11c5451B8f4295Db044f051E63f860",
+      "txHash": "0x477aaca03defa5d6a48a76a74f9c7cc66676ae8a067a6a9b2ecd205ee0ecec40",
+      "blockNumber": 10687699,
+      "etherscan": "https://sepolia.etherscan.io/address/0x20B2A2584d11c5451B8f4295Db044f051E63f860",
+      "quorumRGT": "1000",
+      "votingPeriodDays": 3
+    }
+  }
+}
